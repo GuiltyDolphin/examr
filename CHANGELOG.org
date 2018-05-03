@@ -1,0 +1,14 @@
+#+TITLE: Changelog
+
+* Unreleased
+
+* 0.1.0 - 2018-05-03
+
+** Added
+
++ Initial project files
+  + =.gitignore=
+  + =CHANGELOG.org=
+  + =LICENSE=
+  + =README.org=
+  + =examr.el=

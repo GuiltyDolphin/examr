@@ -1,0 +1,4 @@
+#+TITLE: examr
+
+examr aims to make it easy to work with various exam and revision
+resources in Emacs.
